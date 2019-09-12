@@ -1,0 +1,2 @@
+
+<?php echo $this->Form->input('params.something', array('div' => 'form-group', 'label' => false, 'between' => '<div class="col-md-12">', 'after' => '</div>', 'type' => 'textarea', 'class' => 'form-control wysiwyg', 'rows' => 15));?>

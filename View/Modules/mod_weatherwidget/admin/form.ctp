@@ -1,0 +1,2 @@
+<?php echo $this->Form->input('params.location', array('div' => 'form-group', 'class' => 'form-control', 'label' => array('text' => __('Location'), 'class' => 'col-md-2 control-label'), 'between' => '<div class="col-md-10">', 'after' => '</div>')); ?>
+<p class="hint">In the format City, State. EG: Sydney, NSW</p>

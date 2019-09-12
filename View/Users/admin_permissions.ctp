@@ -1,0 +1,1 @@
+<iframe src="<?=$this->Html->url(array('controller' => 'aros', 'action' => 'ajax_role_permissions', 'admin' => 'admin', 'plugin' => 'acl'))?>"  width="100%" height="500"> 
